@@ -22,3 +22,10 @@
 
 ## FloatingActionButton.java
 MaterialDesign中的FAB。
+需要用到：
+```xml
+<declare-styleable name="FAB">
+    <attr name="bg_color" format="color|reference" />
+    <attr name="bg_color_pressed" format="color|reference" />
+</declare-styleable>
+```
